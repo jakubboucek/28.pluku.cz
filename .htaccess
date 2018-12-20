@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^stanovy$ https://drive.google.com/open?id=0B1iDEYTGuNxbYzhiT09DTGNKMk0 [R=301,L]
