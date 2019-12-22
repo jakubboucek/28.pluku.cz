@@ -1,3 +1,4 @@
 deploy.sh
 .rsync-exclude
 .git
+.idea
